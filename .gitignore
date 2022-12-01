@@ -1,2 +1,5 @@
 secrets.py
 credits.py
+/.idea
+/.DS_Store
+/__pycache__.
